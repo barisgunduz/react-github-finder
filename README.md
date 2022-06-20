@@ -1,10 +1,14 @@
 # Github Finder
+A simple Github Finder app with React.
 
-# Getting Started with Create React App
+### Screenshot
+![dt1](https://raw.githubusercontent.com/barisgunduz/react-github-finder/master/public/screenshot/react-github-finder.gif)
+
+### Default React App Documentation
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
