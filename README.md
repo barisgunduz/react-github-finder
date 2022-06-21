@@ -1,6 +1,9 @@
 # Github Finder
 A simple Github Finder app with React.
 
+### Preview
+[Netlify - Github Finder](https://bg-react-github-finder.netlify.app/)
+
 ### Screenshot
 ![dt1](https://raw.githubusercontent.com/barisgunduz/react-github-finder/master/public/screenshot/react-github-finder.gif)
 
